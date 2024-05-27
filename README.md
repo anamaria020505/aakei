@@ -1,7 +1,8 @@
 #Esto es una prueba
+
 ##Para ingenieria
 
-**lista de compra	
+**lista de compra**	
     -comida:
 	-arroz
 	-carne 
